@@ -1,0 +1,66 @@
+[
+    {
+      "objectID": 1,
+      "title": "Introduction to Artificial Intelligence",
+      "artistDisplayName": "Prof. John Smith",
+      "medium": "Online Course",
+      "dimensions": "Duration: 40 hours",
+      "objectURL": "https://example.com/ai",
+      "objectDate": "2024",
+      "primaryImage": "https://th.bing.com/th/id/R.aa9caabd6635f15300709c142f3c7ee8?rik=xulGAu39zKz3Yg&pid=ImgRaw&r=0",
+      "repository": "University of Technology",
+      "department": "Computer Science",
+      "creditLine": "5 ECTS"
+    },
+    {
+      "objectID": 2,
+      "title": "Advanced Machine Learning",
+      "artistDisplayName": "Dr. Jane Doe",
+      "medium": "Workshops and Projects",
+      "dimensions": "Duration: 30 hours",
+      "objectURL": "https://example.com/ml",
+      "objectDate": "2024",
+      "primaryImage": "https://notionpress.com/coveruploads/40736_frontcover_725328527390.png",
+      "repository": "University of Science",
+      "department": "Data Science",
+      "creditLine": "4 ECTS"
+    },
+    {
+      "objectID": 3,
+      "title": "Introduction to Quantum Computing",
+      "artistDisplayName": "Dr. Albert Einstein",
+      "medium": "Lectures and Labs",
+      "dimensions": "Duration: 50 hours",
+      "objectURL": "https://example.com/quantum",
+      "objectDate": "2024",
+      "primaryImage": "https://th.bing.com/th/id/OIP.eegDhelWn-H7_L8Axs8MngHaLI?rs=1&pid=ImgDetMain",
+      "repository": "University of Physics",
+      "department": "Quantum Sciences",
+      "creditLine": "6 ECTS"
+    },
+    {
+      "objectID": 4,
+      "title": "Web Development Basics",
+      "artistDisplayName": "Ms. Sarah Connor",
+      "medium": "Online and Hands-On",
+      "dimensions": "Duration: 25 hours",
+      "objectURL": "https://example.com/webdev",
+      "objectDate": "2024",
+      "primaryImage": "https://th.bing.com/th/id/R.6734d52141e7e641b0ba9b7c016dfe1a?rik=LI80tL22BT6Khg&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9781802742053_p0_v1_s1200x630.jpg&ehk=ZBBkRWGPM5xCvurArgzbI5aNDcAJlmiF3c1uU%2b%2fqCII%3d&risl=&pid=ImgRaw&r=0",
+      "repository": "Tech Institute",
+      "department": "Software Engineering",
+      "creditLine": "3 ECTS"
+    },
+    {
+      "objectID": 5,
+      "title": "Data Visualization with Python",
+      "artistDisplayName": "Dr. Alan Turing",
+      "medium": "Workshops and Tutorials",
+      "dimensions": "Duration: 35 hours",
+      "objectURL": "https://example.com/dataviz",
+      "objectDate": "2024",
+      "primaryImage": "https://m.media-amazon.com/images/I/51FGbGYniAL.jpg",
+      "repository": "University of Data Science",
+      "department": "Data Science",
+      "creditLine": "4 ECTS"
+    }
