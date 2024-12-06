@@ -11,7 +11,8 @@
     "primaryImageSmall": "https://th.bing.com/th/id/R.aa9caabd6635f15300709c142f3c7ee8?rik=xulGAu39zKz3Yg&pid=ImgRaw&r=0",
     "university": "University of Technology",
     "department": "Computer Science",
-    "creditLine": "5 ECTS"
+    "creditLine": "5 ECTS",
+    "price": 100
   },
   {
     "objectID": 2,
@@ -25,7 +26,8 @@
     "primaryImageSmall": "https://notionpress.com/coveruploads/40736_frontcover_725328527390.png",
     "university": "University of Science",
     "department": "Data Science",
-    "creditLine": "4 ECTS"
+    "creditLine": "4 ECTS",
+    "price": 80
   },
   {
     "objectID": 3,
@@ -39,7 +41,8 @@
     "primaryImageSmall": "https://th.bing.com/th/id/OIP.eegDhelWn-H7_L8Axs8MngHaLI?rs=1&pid=ImgDetMain",
     "university": "University of Physics",
     "department": "Quantum Sciences",
-    "creditLine": "6 ECTS"
+    "creditLine": "6 ECTS",
+    "price": 120
   },
   {
     "objectID": 4,
@@ -53,7 +56,8 @@
     "primaryImageSmall": "https://th.bing.com/th/id/R.6734d52141e7e641b0ba9b7c016dfe1a?rik=LI80tL22BT6Khg&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9781802742053_p0_v1_s1200x630.jpg&ehk=ZBBkRWGPM5xCvurArgzbI5aNDcAJlmiF3c1uU%2b%2fqCII%3d&risl=&pid=ImgRaw&r=0",
     "university": "Tech Institute",
     "department": "Software Engineering",
-    "creditLine": "3 ECTS"
+    "creditLine": "3 ECTS",
+    "price": 50
   },
   {
     "objectID": 5,
@@ -67,6 +71,7 @@
     "primaryImageSmall": "https://m.media-amazon.com/images/I/51FGbGYniAL.jpg",
     "university": "University of Data Science",
     "department": "Data Science",
-    "creditLine": "4 ECTS"
+    "creditLine": "4 ECTS",
+    "price": 90
   }
 ]
